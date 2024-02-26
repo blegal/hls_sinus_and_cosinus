@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Build
+build
+
+# MacOS
+.DS_Store
+
+# Visual code
+.vscode/settings.json
